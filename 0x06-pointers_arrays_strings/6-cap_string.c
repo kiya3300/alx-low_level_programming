@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * cap_string - Function that reverses the content of an array of integers.
