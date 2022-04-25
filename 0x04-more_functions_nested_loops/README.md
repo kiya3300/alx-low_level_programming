@@ -33,6 +33,7 @@ A program that prints 1 to 100, followed by a new line. Multiples of 3 or 5 are 
 
 ## 10-print_triangle.c
 A function that prints a triangle, followed by a new line.
+
 ADVANCED
 
 ## 100-prime_factor.c
