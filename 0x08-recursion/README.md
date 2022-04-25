@@ -29,5 +29,5 @@ A function that compares two strings and returns 1 if the strings can be conside
 
 HEADER FILE
 
-@@ main.h
+##main.h
 Header file that contains all prototypes of functions used in this project.
