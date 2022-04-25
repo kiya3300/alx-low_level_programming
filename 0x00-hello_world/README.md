@@ -27,4 +27,4 @@ is a C program that prints the size of various types on the computer it is compi
 is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
 ## 101-quote.c
-is a C program that prints exactly "and that piece of art is useful" - Dora Korpar, 2022-04-", followed by a new line, to the standard error.
+is a C program that prints exactly "and that piece of art is useful" - Abel Yitages, 2022-03-10", followed by a new line, to the standard error.
