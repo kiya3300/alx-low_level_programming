@@ -29,7 +29,11 @@ A function that draws a diagonal line on the terminal.
 A function that prints a square followed by an new line.
 
 ## 9-fizz_buzz.c
-A program that prints 1 to 100, followed by a new line. Multiples of 3 or 5 are replaced by Fizz ## 10-print_triangle.c A function that prints a triangle, followed by a new line. ADVANCED ```
+A program that prints 1 to 100, followed by a new line. Multiples of 3 or 5 are replaced by Fizz.
+
+## 10-print_triangle.c
+A function that prints a triangle, followed by a new line.
+ADVANCED
 
 ## 100-prime_factor.c
 A program that finds and prints the largest prime facter of the number
