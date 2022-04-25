@@ -19,3 +19,10 @@ A function that adds a new node at the beginning of a listint_t list.
 
 * Prototype: listint_t *add_nodeint(listint_t **head, const int n);.
 * Returns the address of the new element or NULL if it fails.
+
+# 3-add_nodeint_end.c
+A function that adds a new node at the end of a lintint_t list.
+
+* Prototype: listint_t *add_nodeint_end(listint_t **head, const int n);.
+* Returns the address of the new element or NULL if it fails.
+
