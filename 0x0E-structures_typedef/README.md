@@ -15,7 +15,7 @@ A function that peints a struct dog.
 # 4-new_dog.c
 A function that creates a new dog.
 * Prototype: dog_t *new_dog(char *name, float age, char *owner);.
-A copy of name and owner is stored.
+* A copy of name and owner is stored.
 * Returns NULL if function fails.
 
 # 5-free_dog.c
