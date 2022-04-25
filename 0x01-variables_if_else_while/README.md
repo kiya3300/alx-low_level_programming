@@ -13,3 +13,6 @@ MANDATORY
 ## 9-print_comb.c
 ## 10-print_comb2.c
 ADVANCED
+## 100-print_comb3.c
+##
+##
